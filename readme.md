@@ -2,7 +2,8 @@
 ### Authenticación básica con jwt (no bd)
 
 Login usuario:
-http://localhost:8000/api/users/login\
+http://localhost:8000/api/users/login
+
 `{
     "username":"nombre",
     "password": "123456"
