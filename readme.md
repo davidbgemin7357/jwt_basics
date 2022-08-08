@@ -4,7 +4,7 @@
 Login usuario:
 http://localhost:8000/api/users/login\
 `{
-    "username":"david",
+    "username":"nombre",
     "password": "123456"
 }`
 
